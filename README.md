@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Fluid+Simulation-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Liquid+Simulation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 LiquiGen Free Installer** — LiquiGen is a real-time fluid simulation tool for creating water, smoke, and fire effects. Works without internet access, no account required. Full offline installation.
+**💻 LiquiGen Free Installer** — LiquiGen is a real-time liquid and fluid simulation tool for generating water, fire, smoke, and other fluid effects for visualization and creative projects. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About LiquiGen
 
-LiquiGen is a real-time fluid simulation tool for creating water, smoke, and fire effects. It uses GPU-accelerated simulation to generate stunning fluid dynamics that can be rendered and exported for use in films, games, and motion graphics.
+LiquiGen is a real-time liquid and fluid simulation tool for generating water, fire, smoke, and other fluid effects for visualization and creative projects. Create and export fluid simulations for use in video production, visual effects, and artistic projects. LiquiGen's accessible interface brings fluid simulation capabilities to creators without requiring knowledge of professional VFX software.
 
 ---
 
 ## ❌ Problem: LiquiGen is hard to access
 
-- **GPU Required** — Requires a capable discrete GPU for real-time simulation
-- **High Cost** — Professional licensing is expensive for independent artists
-- **Niche Tool** — Standalone fluid sim requires integration workflow with your main 3D app
-- **Learning Curve** — Fluid simulation parameters take significant time to master
+- **Specialized Use** — Single-purpose fluid simulation tool
+- **Platform Availability** — Limited platform support
+- **Export Integration** — Integrating simulations into professional pipelines requires additional work
+- **Processing Power** — Real-time simulation quality scales with available CPU and GPU
 
 ---
 
@@ -121,7 +121,7 @@ LiquiGen is a real-time fluid simulation tool for creating water, smoke, and fir
 
 ---
 
-**LiquiGen Free Installer** — LiquiGen is a real-time fluid simulation tool for creating water, smoke, and fire effects. Install without internet connection today!
+**LiquiGen Free Installer** — LiquiGen is a real-time liquid and fluid simulation tool for generating water, fire, smoke, and other fluid effects for visualization and creative projects. Install without internet connection today!
 
 <div align="center">
 
